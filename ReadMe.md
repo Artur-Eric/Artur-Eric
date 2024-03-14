@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 
 - Desenvolvedor em desenvolvimento;<br>- Cursando Análise e desenvolvimento de sistemas na USCS;<br>- Procurando um estágio no mercado de trabalho;
 
 
