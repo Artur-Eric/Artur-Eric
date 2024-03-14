@@ -1,4 +1,4 @@
-# Bio:
+# olá! eu sou o Artur Eric
  - Desenvolvedor em desenvolvimento;<br>- Cursando Análise e desenvolvimento de sistemas na USCS;<br>- Procurando um estágio no mercado de trabalho;
 
 
