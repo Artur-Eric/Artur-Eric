@@ -11,7 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Artur-Eric&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Artur-Eric&theme=dark&hide_border=true)<br/>
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Artur-Eric&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
